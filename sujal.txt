@@ -1,2 +1,4 @@
 Hello my name is sujal chand. Here I am back again trying to learn about git 
 and github.
+Here I am modifying this file and I am trying to see how things really works 
+in git and github.
